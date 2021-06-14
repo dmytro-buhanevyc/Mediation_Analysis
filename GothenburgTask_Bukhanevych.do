@@ -1,4 +1,3 @@
-***GLD_Task_Bukhanevych***
 
 ***Chapter 3 - Running the analysis***
 ssc install mediation
